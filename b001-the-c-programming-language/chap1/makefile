@@ -15,6 +15,6 @@ all: 01_hello_world 01_hello_world_fix 02_temperature
 
 .PHONY: clean
 clean:
-	rm -f 01_hello_world 01_hello_world_fixed
+	rm -f 01_hello_world 01_hello_world_fixed 02_temperature
 
 
